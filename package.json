@@ -1,0 +1,26 @@
+{
+  "name": "ajax-only",
+  "description": "Express middleware for only accept AJAX requests",
+  "version": "0.0.1",
+  "homepage": "https://github.com/talyssonoc/express-ajax-only",
+  "author": {
+    "name": "talyssonoc",
+    "email": "talyssonoc@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talyssonoc/express-ajax-only.git"
+  },
+  "bugs": {
+    "url": "https://github.com/talyssonoc/express-ajax-only/issues"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "ajax",
+    "xhr"
+  ],
+  "main": "./index.js",
+  "dependencies": { },
+  "devDependencies": { }
+}
