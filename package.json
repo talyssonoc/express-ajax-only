@@ -1,7 +1,7 @@
 {
   "name": "ajax-only",
   "description": "Express middleware for only accept AJAX requests",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/talyssonoc/express-ajax-only",
   "author": {
     "name": "talyssonoc",
