@@ -2,11 +2,12 @@
 
 Express middleware for only accept AJAX request for a given URL
 
-## Usage
+## Example
 
 ```js
 	var ajaxOnly = require('ajax-only');
-	app.use(ajaxOnly([options]));
+	app.get('/api/*', ajaxOnly([options]));
+	app.get('/api/', api.index);
 ```
 
 ## Options
